@@ -1,5 +1,5 @@
 # staff-recycling-manual
-Best recycling for staff, with suggestions for identifying features.
+Best recycling practices for staff, with suggestions for identifying features.
 
 ----
 
